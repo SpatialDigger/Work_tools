@@ -12,8 +12,8 @@ import time
 file_list = []
 
 ''' Inputs '''
-path = input('Enter the search directory:')
-ext = input('define the extension:')
+path = input('Enter the search directory: ')
+ext = input('define the extension: ')
 
 ''' Add in the point if not in the input '''
 if not ext[0] == '.':
