@@ -11,6 +11,7 @@ import time
 ''' initiate lists '''
 file_list = []
 
+''' Inputs '''
 path = input('Enter the search directory:')
 ext = input('define the extension:')
 
